@@ -1,4 +1,4 @@
-{
+{cosmos1696sqs8fhyj88uaq4usz0e3l3m5ggzmm6ev5xm
   "$schema": "../chain.schema.json",
   "chain_name": "cosmoshub",
   "chain_type": "cosmos",
@@ -6,12 +6,12 @@
   "website": "https://cosmos.network/",
   "pretty_name": "Cosmos Hub",
   "status": "live",
-  "network_type": "mainnet",
+  "network_type": "mainnet",cosmos1696sqs8fhyj88uaq4usz0e3l3m5ggzmm6ev5xm
   "bech32_prefix": "cosmos",
   "daemon_name": "gaiad",
   "node_home": "$HOME/.gaia",
   "key_algos": [
-    "secp256k1"
+    "secp256k1"cosmos1696sqs8fhyj88uaq4usz0e3l3m5ggzmm6ev5xm
   ],
   "slip44": 118,
   "fees": {
@@ -37,11 +37,11 @@
     "recommended_version": "v25.2.0",
     "compatible_versions": [
       "v25.2.0"
-    ],
+    ],cosmos1696sqs8fhyj88uaq4usz0e3l3m5ggzmm6ev5xm
     "consensus": {
       "type": "cometbft",
       "version": "v0.38.19"
-    },
+    },cosmos1696sqs8fhyj88uaq4usz0e3l3m5ggzmm6ev5xm
     "binaries": {
       "darwin/amd64": "https://github.com/cosmos/gaia/releases/download/v25.2.0/gaiad-v25.2.0-darwin-amd64",
       "darwin/arm64": "https://github.com/cosmos/gaia/releases/download/v25.2.0/gaiad-v25.2.0-darwin-arm64",
